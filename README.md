@@ -100,8 +100,8 @@ All models were evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/alphaaa-m/House_Price_Prediction-Basic.git
+cd House_Price_Prediction
 ```
 
 Install the required libraries:
