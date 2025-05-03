@@ -95,9 +95,44 @@ All models were evaluated using:
 
 ---
 
+## 🚀 How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/house-price-prediction.git
+cd house-price-prediction
+```
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+> Or manually install packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+Run the Jupyter Notebook:
+
+```bash
+jupyter notebook House_Price_Prediction.ipynb
+```
+
+Execute all the cells and view the results.
+
+---
+
 ## 👨‍💻 Author
 
 **Muneeb Ashraf**  
-_Stepping stone for advanced ML projects._  
+_Stepping stone for advanced ML projects._ 
 
-> 🔗 Project Repository: [House_Price_Prediction-Basic](https://github.com/alphaaa-m/House_Price_Prediction-Basic)
+---
+
+## 📢 Connect with Me
+
+Feel free to connect for collaborations, feedback, or suggestions!
+
+🔗 **GitHub Repo Link**: [Visit Here](https://github.com/alphaaa-m/House_Price_Prediction-Basic)
+
+---
