@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction: Basic Model Comparison
 
-![House Price Prediction Banner](https://github.com/alphaaa-m/House_Price_Prediction-Basic/raw/main/House_Price_Prediction_Banner.png)
+![House Price Prediction Banner](https://github.com/alphaaa-m/House_Price_Prediction-Basic/raw/main/House_Price_Prediction_Cover.png)
 
 ## 🔍 Introduction
 
